@@ -1,0 +1,259 @@
+/*CSS DOCUMENT*/
+
+/* INTRO PAGE */
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.abouttext {
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 24px;
+}
+
+.intro {
+    background-color: #ffffff;
+    padding: 3em 6em 6em 6em;
+    margin: 4em;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-color: #1c1c1c;
+}
+
+.introimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 99%;
+    padding-bottom: 2em;
+}
+
+.topnav {
+    background-color: #ffffff;
+    overflow: hidden;
+    margin-bottom: 3em;
+    font-family: basic-sans, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    float: right;
+}
+
+.topnav a {
+    float: left;
+    color: #3b3d3c;
+    text-align: center;
+    padding: 1.875em 1.875em .75em 1.25px;
+    text-decoration: none;
+    font-size: 1em;
+    letter-spacing: 2px;
+}
+
+.topnav a:hover {
+    background-color: #ffffff;
+    color: 000000;
+}
+
+img {
+    width: 90%;
+}
+
+.container {
+    max-width: 60em;
+    margin: auto;
+    border-top: 3px solid;
+    padding: 3em;
+}
+
+.center {
+    align-content: center;
+    width: 75%;
+}
+
+.intro {
+    text-align: center;
+    font-family: bilo, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    margin-bottom: 3em;
+}
+
+.abouttext {
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
+/* LOCATIONS STYLE */
+
+.locationone {
+    background-color: #ffffff;
+    padding: 1em;
+    margin: 4em;
+    border-top: 1px solid;
+    border-color: #1c1c1c;
+}
+
+.locationtwo {
+    background-color: #ffffff;
+    padding: 1em;
+    margin: 4em;
+    border-top: 1px solid;
+    border-color: #1c1c1c;
+}
+
+.locationthree {
+    background-color: #ffffff;
+    padding: 1em;
+    margin: 4em;
+    border-top: 1px solid;
+    border-color: #1c1c1c;
+    align-content: right;
+}
+
+.locationimages {
+    display: block;
+    margin-left: auto;
+    width: 95%;
+    align-content: center;
+    padding-top: 2em;
+}
+
+/* HOME PAGE STYLE */
+
+.homeimage {
+    display: block;
+    margin-left: auto;
+    width: 90%;
+    padding-bottom: 5em;
+    padding-top: 3em;
+}
+
+.introhome {
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-color: black;
+}
+
+/* MENU STYLE */
+.oneimage {
+    align-content: center;
+    padding-left: 9em;
+}
+
+.logomenu {
+    align-content: right;
+    width: 30%;
+    padding: 10px 0px 10px 12px;
+}
+
+.menucontent {
+    background-color: #ffffff;
+    padding: 6em;
+    margin: 4em;
+    border: 3px solid;
+    border-color: #1c1c1c;
+    align-content: center;
+}
+
+.intromenu {
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.itemsone {
+    padding: 3em 10em 3em 10em;
+    margin: 5em;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-color: #1c1c1c;
+}
+
+.itemstwo {
+    padding: 3em 10em 3em 10em;
+    margin: 5em;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-color: #1c1c1c;
+}
+
+.itemsthree {
+    padding: 3em 10em 3em 10em;
+    margin: 5em;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-color: #1c1c1c;
+}
+
+.itemsfour {
+    padding: 3em 10em 3em 10em;
+    margin: 5em;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-color: #1c1c1c;
+}
+
+ul {
+    font-family: bilo, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    text-align: center;
+    list-style-type: none;
+    padding-bottom: 2px;
+}
+
+/* GENERAL STYLE */
+
+h1 {
+    font-family: bilo, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    text-align: center;
+}
+
+h2 {
+    font-family: bilo, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    text-align: center;
+    align-content: center;
+}
+
+h3 {
+    text-align: center;
+    font-family: bilo, sans-serif;
+    font-style: normal;
+    font-size: 1.250em;
+    margin-bottom: 3px;
+}
+
+h4 {
+    font-family: bilo, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    text-align: center;
+}
+
+h5 {
+    font-family: bilo, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+    font-family: bilo, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    padding-top: 2em;
+}
+
+p {
+    font-family: bilo, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    text-align: center;
+}
